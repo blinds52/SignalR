@@ -9,13 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="wwwroot\hubs - Copy.html">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\sockets - Copy.html">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\streaming.html" />
   </ItemGroup>
 
   <ItemGroup>
